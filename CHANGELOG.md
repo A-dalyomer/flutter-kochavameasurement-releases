@@ -1,0 +1,1 @@
+View release notes at https://github.com/Kochava/flutter-kochavatracker-releases/releases
